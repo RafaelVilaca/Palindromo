@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\obj\Debug\Palindromo.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Palindromo\Palindromo\obj\Debug\Palindromo.pdb
